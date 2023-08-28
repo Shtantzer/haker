@@ -1,0 +1,26 @@
+/*body {
+    margin: 1cm;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}*/
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin: 1cm;
+    text-align: center;
+    white-space: pre-line;
+}
+
+input {
+    /*width: 7cm;
+    padding: 10px;*/
+
+    display: block;
+    margin: 0 auto;
+    
+}
